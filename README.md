@@ -1,16 +1,30 @@
-### Hi there 👋
+### MERHABA 👋
+:man_technologist_tone3: Ben Halil İbrahim, Turkiye de Gelisim Universitesi 3. Sinif Yonetim Bilisim Sistemleri ogrencisiyim.
 
-<!--
-**Halil-ibrahim-altuntas/Halil-ibrahim-altuntas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Halihazirda online olarak Java ve Python dersleri aliyorum.
+- Online derslerde aldigim dokumanlari GitHub a yukluyorum.
+- :envelope: Bana ulasmak icin : hllibrhimalt34@gmail.com
 
-Here are some ideas to get you started:
+Kullandığım diller ve programlar:
+-
+Java
+Python
+SQL
+R
+Eclipse IDE
+NetBeans
+Knime
+R Studio
+Anaconda Navigator(spyder)
+SQL Server Management Studio
+Virtual Studio Code
+Microsoft Office
+Windows Virtual
+VMware
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
