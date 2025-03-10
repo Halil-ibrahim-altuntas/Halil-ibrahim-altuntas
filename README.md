@@ -1,5 +1,5 @@
 ### MERHABA 👋
-👨‍💻 Ben Halil İbrahim, Turkiye de Gelisim Universitesi Yonetim Bilisim Sistemleri bolumunden mezun oldum.
+👨‍💻 Ben Halil İbrahim, Turkiye de Gelisim Universitesi Yonetim Bilisim Sistemleri bölümünden mezun oldum.
 
 - Halihazirda online olarak Java ve Python dersleri aliyorum.
 - Online derslerde aldigim dokumanlari GitHub a yukluyorum.
