@@ -1,5 +1,5 @@
 ### MERHABA 👋
-👨‍💻 Ben Halil İbrahim, Turkiye de Gelisim Universitesi 3. Sinif Yonetim Bilisim Sistemleri ogrencisiyim.
+👨‍💻 Ben Halil İbrahim, Turkiye de Gelisim Universitesi 3. Sinif Yonetim Bilisim Sistemleri ögrencisiyim.
 
 - Halihazirda online olarak Java ve Python dersleri aliyorum.
 - Online derslerde aldigim dokumanlari GitHub a yukluyorum.
